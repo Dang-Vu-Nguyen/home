@@ -22,7 +22,6 @@ img {
     max-height: 120px; /* 8 lines of text, 1.5em line height */
     width: auto; /* Maintain aspect ratio */
     display: block;
-    margin: auto;
     float: left;
  
 }
