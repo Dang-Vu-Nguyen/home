@@ -23,6 +23,7 @@ img {
     width: auto; /* Maintain aspect ratio */
     display: block;
     float: left;
+    clear: left;
  
 }
 
@@ -42,3 +43,8 @@ footer {
     text-align: center;
     padding: 1em;
 }
+
+.container {
+  max-width: 1200px; /* Adjust this value to your preferred maximum width */
+  margin: 0 auto; /* Center the container horizontally */
+  overflow: hidden; /* Clear any floats inside the container */
