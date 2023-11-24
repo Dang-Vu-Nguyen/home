@@ -19,7 +19,7 @@ nav {
 }
 
 img {
-    max-height: calc(8 * 1.5em); /* 8 lines of text, 1.5em line height */
+    max-height: 100px; /* 8 lines of text, 1.5em line height */
     width: auto; /* Maintain aspect ratio */
     display: block;
     margin: auto;
