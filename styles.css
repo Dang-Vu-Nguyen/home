@@ -23,6 +23,8 @@ img {
     width: auto; /* Maintain aspect ratio */
     display: block;
     margin: auto;
+    object-fit: cover; /* Trim image to cover the container */
+    object-position: bottom; /* Keep the bottom part of the image */
 }
 
 nav a {
