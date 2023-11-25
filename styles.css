@@ -30,6 +30,7 @@ img {
     width: auto; /* Maintain aspect ratio */
     display: block;
     align-items: left;
+    margin-top: 10px; /* Add a margin of 10 pixels to the top */
  
 }
 
