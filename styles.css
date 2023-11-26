@@ -26,7 +26,7 @@ nav {
 }
 
 img {
-    max-height: 120px; /* 8 lines of text, 1.5em line height */
+    max-height: 180px; /* 8 lines of text, 1.5em line height */
     width: auto; /* Maintain aspect ratio */
     display: block;
     align-items: left;
