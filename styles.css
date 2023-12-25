@@ -42,6 +42,7 @@ nav a {
 
 section {
     padding: 1em;
+    line-height: 1.4;
 }
 
 footer {
@@ -55,3 +56,9 @@ footer {
   max-width: 800px; /* Adjust this value to your preferred maximum width */
   margin: 0 auto; /* Center the container horizontally */
   overflow: hidden; /* Clear any floats inside the container */
+}
+
+.hp-profile-image {
+    float: left;
+    margin-right: 20px;
+}
