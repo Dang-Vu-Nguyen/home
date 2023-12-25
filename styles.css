@@ -12,6 +12,9 @@ header {
     padding: 1em;
 }
 
+h2 {
+    margin-top: 3px;
+}
 hr {
   border: none;
   border-top: 1px solid #ddd;
