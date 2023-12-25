@@ -52,13 +52,15 @@ nav a {
 }
 
 section {
-    padding: 1em;
+    padding: 2px 15px;
     line-height: 1.4;
     text-align: justify;
+    margin: 0;
+    
 }
 
 section p {
-    margin-bottom: 10px; /* Adjust the value to control the spacing */
+    margin: 2; /* Adjust the value to control the spacing */
 }
 
 footer {
