@@ -20,8 +20,8 @@ hr {
 }
 
 ul {
-    margin: 5px;
-    padding: 2px;
+    margin: 0 0 15px 5px;
+    padding: 3px;
     list-style-position: inside;
 }
 
