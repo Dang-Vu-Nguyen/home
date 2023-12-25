@@ -19,6 +19,14 @@ hr {
   margin: 20px auto; /* Center the divider horizontally with margin */
 }
 
+ul {
+    list-style-position: inside;
+}
+
+li {
+    text-align: justify;
+}
+
 nav {
     background-color: #666;
     padding: 0.5em;
@@ -43,6 +51,7 @@ nav a {
 section {
     padding: 1em;
     line-height: 1.4;
+    text-align: justify;
 }
 
 footer {
@@ -60,5 +69,5 @@ footer {
 
 .hp-profile-image {
     float: left;
-    margin-right: 30px;
+    margin-right: 25px;
 }
