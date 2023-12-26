@@ -6,7 +6,8 @@ body {
 }
 
 header {
-    background-color: #333;
+    background-image: url("Background 4.jpg");
+    background-size: cover;
     color: #fff;
     text-align: center;
     padding: 1em;
