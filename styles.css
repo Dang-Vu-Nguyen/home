@@ -14,6 +14,7 @@ header {
     max-width: 4000px;
     background-color: #333;
     color: #fff;
+    text-shadow: 4px 4px 6px rgba(0, 0, 0, 1.0);
 }
 
 h2 {
@@ -44,6 +45,17 @@ nav {
     text-align: center;
 }
 
+nav a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0.5em 0.4em;
+    white-space: nowrap;
+    overflow:hidden;
+    text-overflow: ellipsis;
+    flex: 1 0 auto;
+    text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.5);
+}
+
 img {
     max-height: 200px; /* 8 lines of text, 1.5em line height */
     width: auto; /* Maintain aspect ratio */
@@ -53,15 +65,7 @@ img {
  
 }
 
-nav a {
-    color: #fff;
-    text-decoration: none;
-    margin: 0.5em 0.4em;
-    white-space: nowrap;
-    overflow:hidden;
-    text-overflow: ellipsis;
-    flex: 1 0 auto;
-}
+
 
 section {
     padding: 10px 15px;
@@ -80,6 +84,7 @@ footer {
     color: #fff;
     text-align: center;
     padding: 1em;
+    text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.5);
 }
 
 .container {
