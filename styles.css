@@ -9,8 +9,10 @@ header {
     background-image: url("Background 4.jpg");
     background-size: cover;
     color: #fff;
-    text-align: center;
+    text-align: left;
     padding: 1em;
+    max-width: 1200px;
+    
 }
 
 h2 {
@@ -80,7 +82,7 @@ footer {
 }
 
 .container {
-  max-width: 800px; /* Adjust this value to your preferred maximum width */
+  max-width: 900px; /* Adjust this value to your preferred maximum width */
   margin: 0 auto; /* Center the container horizontally */
   overflow: hidden; /* Clear any floats inside the container */
 }
@@ -95,3 +97,4 @@ footer {
     text-align: right;
     font-style: italic;
   }
+
