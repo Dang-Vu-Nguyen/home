@@ -51,8 +51,7 @@ li {
 
 nav {
     background-color: #666;
-    padding: 0.87em;
-    margin: 20;
+    padding: 0.6em;
     text-align: center;
 }
 
@@ -67,16 +66,15 @@ nav a {
     text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.5);
 }
 
-img {
-    max-height: 200px; /* 8 lines of text, 1.5em line height */
+.hp-profile-image {
+    float: left;
+    margin-right: 25px;
+    max-width: 160px; /* 8 lines of text, 1.5em line height */
     width: auto; /* Maintain aspect ratio */
     display: block;
     align-items: left;
     margin-top: 12px; /* Add a margin of 10 pixels to the top */
- 
 }
-
-
 
 section {
     padding: 10px 15px;
@@ -108,10 +106,6 @@ footer {
   overflow: hidden; /* Clear any floats inside the container */
 }
 
-.hp-profile-image {
-    float: left;
-    margin-right: 25px;
-}
 
 
 #last-updated {
