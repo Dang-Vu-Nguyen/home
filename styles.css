@@ -6,13 +6,14 @@ body {
 }
 
 header {
-    background-image: url("Background 4.jpg");
+    background-image: url("Background 5.jpg");
     background-size: cover;
-    color: #fff;
+    background-position: center;
     text-align: left;
     padding: 1em;
-    max-width: 1200px;
-    
+    max-width: 4000px;
+    background-color: #333;
+    color: #fff;
 }
 
 h2 {
