@@ -24,13 +24,13 @@ hr {
 
 ul {
     margin: 0 0 15px 5px;
-    padding: 3px;
+    padding: 4px 3px;
     list-style-position: inside;
 }
 
 li {
     text-align: justify;
-    margin-bottom: 2px;
+    margin-bottom: 4px;
 }
 
 nav {
@@ -60,7 +60,7 @@ nav a {
 }
 
 section {
-    padding: 2px 15px;
+    padding: 10px 15px;
     line-height: 1.4;
     text-align: justify;
     margin: 0;
